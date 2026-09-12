@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Alicia Rebollo
+# 👋 Hi, I'm Alicia Rebollo
 
-### Full Stack Developer | Angular & .NET 
+### Full Stack Developer | Angular & .NET | + 3 years of experience
 
 📍 Based in Huelva, Spain | 🎨 Frontend & UX/UI focused
 
