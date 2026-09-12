@@ -33,3 +33,12 @@ I focus on clean architecture, design consistency, and intuitive user interfaces
     <img height="180em" src="https://github-readme-stats-gold-five-67.vercel.app/api/top-langs/?username=aliciarebo&layout=compact&hide_border=true&bg_color=0D1117&title_color=66fcf1&text_color=c5c6c7&v=21" alt="Top Languages"/>
   </picture>
 </div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-three-psi.vercel.app/graph?username=aliciarebo&bg_color=0D1117&color=66FCF1&line=66FCF1&point=ffffff&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-three-psi.vercel.app/graph?username=aliciarebo&bg_color=ffffff&color=45A29E&line=45A29E&point=333333&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph-three-psi.vercel.app/graph?username=aliciarebo&bg_color=0D1117&color=66FCF1&line=66FCF1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  </picture>
+</div>
