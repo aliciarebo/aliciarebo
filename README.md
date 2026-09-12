@@ -15,3 +15,21 @@ I focus on clean architecture, design consistency, and intuitive user interfaces
 ## 💻 Tech stack
 
 <img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,figma,dotnet,cs,postgres,docker,azure,git" alt="Alicia's Tech Stack" />
+
+## 📊 Activity & Insights
+
+<div align="center">
+  <!-- Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-tawny-three.vercel.app?user=aliciarebo&theme=black-ice&hide_border=true&background=0D1117&date_format=%5BY%20%5DM%20j"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-tawny-three.vercel.app?user=aliciarebo&theme=default&hide_border=true&date_format=%5BY%20%5DM%20j"/>
+    <img height="180em" src="https://github-readme-streak-stats-tawny-three.vercel.app?user=aliciarebo&theme=black-ice&hide_border=true&background=0D1117&date_format=%5BY%20%5DM%20j" alt="Alicia's GitHub Streak"/>
+  </picture>
+  
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gold-five-67.vercel.app/api/top-langs/?username=aliciarebo&layout=compact&hide_border=true&bg_color=0D1117&title_color=66fcf1&text_color=c5c6c7&v=21"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-gold-five-67.vercel.app/api/top-langs/?username=aliciarebo&layout=compact&theme=default&hide_border=true&v=21"/>
+    <img height="180em" src="https://github-readme-stats-gold-five-67.vercel.app/api/top-langs/?username=aliciarebo&layout=compact&hide_border=true&bg_color=0D1117&title_color=66fcf1&text_color=c5c6c7&v=21" alt="Top Languages"/>
+  </picture>
+</div>
